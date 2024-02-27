@@ -2,4 +2,13 @@
 
 LACE Laboratório de Acionamentos Elétricos
 
-powerd by [airspace-jekyll](https://github.com/luminousrubyist/airspace-jekyll)
+### Commands to edit
+
+Windows: CMD
+```
+bundle update
+bundle install
+bundle add webrick
+bundle exec jekyll -v
+bundle exec jekyll serve --livereload
+```
